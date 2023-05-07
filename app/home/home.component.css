@@ -1,0 +1,93 @@
+.fsection {
+    width: 1500px;
+    height: 300px;
+    z-index: 0;
+    margin-top: 10%;
+    margin-left: 20%;
+}
+
+h2.title {
+    color: white;
+    font-size: 300%;
+    margin-left: 0%;
+}
+
+a {
+    color: white;
+    background-color: rgb(53, 165, 210);
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 28%;
+    padding: 4px;
+    border: 2px solid rgb(53, 165, 210);
+    border-bottom-style: outset;
+}
+
+input.search {
+    padding: 4px;
+    width: 50%;
+    border: 2px solid white;
+    border-bottom-style: outset;
+
+}
+
+button {
+    padding: 4px;
+    color: white;
+    background-color: rgb(53, 165, 210);
+    border: 2px solid rgb(53, 165, 210);
+    border-bottom-style: outset;
+    margin-left: 2%;
+}
+
+.sub {
+
+    width: 52%;
+    height: 25px;
+    align-items: center;
+    color: white;
+    margin-top: 1%;
+}
+
+.location {
+    margin-left: 41%;
+    padding: 4px;
+    width: 20%;
+}
+
+.msection {
+    background-color: rgba(242, 238, 238, 0.899);
+    height: 300px;
+
+}
+
+h3 {
+    margin-left: 45%;
+    padding-top: 10px;
+}
+
+h2 {
+    margin-left: 40%;
+}
+
+p {
+    margin-left: 35%;
+    margin-top: 25px;
+}
+
+p.subtext {
+    margin-left: 40%;
+    margin-top: 25px;
+}
+
+a.bottom {
+
+    background-color: white;
+    color: rgb(53, 165, 210);
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 42%;
+    padding: 4px;
+    border: 2px solid rgb(53, 165, 210);
+    border-radius: 3px;
+}

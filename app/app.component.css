@@ -1,0 +1,15 @@
+.pic{
+    background-image: url("finallaptop.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+   width: 1500px;
+   height: 600px;
+   z-index: -1;
+   
+}
+
+.footer{
+         position: relative;
+         margin-top: 32%;
+
+       }

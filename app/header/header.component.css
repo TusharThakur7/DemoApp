@@ -1,0 +1,47 @@
+.navbar {
+    background-size: contain;
+    border: 2px solid rgb(55, 159, 234);
+    border-bottom-style: hidden;
+    border-right-style: none;
+    border-left: hidden;
+    width: 100%;
+    height: 120px;
+    left: 0;
+    z-index: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin-top: 50px;
+    margin-right: 50px;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: rgb(26, 124, 162);
+}
+
+.active {
+    border-top: rgb(134, 188, 226) solid 3px;
+    border-inline-color: green solid 2px;
+}
+
+h2 {
+    float: left;
+    margin-top: 60px;
+    margin-left: 100px;
+    background-color: white;
+}
